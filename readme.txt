@@ -1,1 +1,1 @@
-python—ßœ∞± º«
+Note of Python
