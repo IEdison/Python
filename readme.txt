@@ -1,1 +1,1 @@
-Note of Python
+学习使用Python
